@@ -30,8 +30,8 @@
                 "imageUrl": "https://github.com/bakhromusmanov/mobile-mock-assets/images/homes/default_home.png"
             },
             {
-                "id": "home2",
-                "title": "Lazak 12-37",
+                "id": "home3",
+                "title": "Labzak 12-37",
                 "subtitle": "Payments count — 6",
                 "balanceInfo": {
                     "title": "No Debt",
