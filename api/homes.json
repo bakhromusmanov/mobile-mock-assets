@@ -1,0 +1,34 @@
+{
+  "homes": [
+    {
+      "id": "home1",
+      "title": "Glinka 6-55, Mirabad District",
+      "subtitle": "Payments count — 4",
+      "balanceInfo": {
+        "title": "Has debt",
+        "state": "HAS_DEBT"
+      },
+      "imageUrl": "https://github.com/bakhromusmanov/mobile-mock-assets/images/homes/default_home.png"
+    },
+    {
+      "id": "home2",
+      "title": "Chilanzar 12-44",
+      "subtitle": "Payments count — 2",
+      "balanceInfo": {
+        "title": "Low Balance",
+        "state": "LOW_BALANCE"
+      },
+      "imageUrl": "https://github.com/bakhromusmanov/mobile-mock-assets/images/homes/default_home.png"
+    },
+    {
+      "id": "home2",
+      "title": "Lazak 12-37",
+      "subtitle": "Payments count — 6",
+      "balanceInfo": {
+        "title": "No Debt",
+        "state": "OK"
+      },
+      "imageUrl": "https://github.com/bakhromusmanov/mobile-mock-assets/images/homes/default_home.png"
+    }
+  ]
+}
