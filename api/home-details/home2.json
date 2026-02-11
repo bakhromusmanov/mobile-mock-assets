@@ -15,6 +15,7 @@
             "title": "No debt",
             "state": "OK"
         },
+        "imageUrl": "https://raw.githubusercontent.com/bakhromusmanov/mobile-mock-assets/main/images/homes/default_home.png",
         "payments": [
             {
                 "homeId": "home2",
