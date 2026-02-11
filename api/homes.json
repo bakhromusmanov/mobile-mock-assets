@@ -17,7 +17,7 @@
                     "title": "Has debt",
                     "state": "HAS_DEBT"
                 },
-                "imageUrl": "https://github.com/bakhromusmanov/mobile-mock-assets/images/homes/default_home.png"
+                "imageUrl": "https://raw.githubusercontent.com/bakhromusmanov/mobile-mock-assets/main/images/homes/default_home.png"
             },
             {
                 "id": "home2",
@@ -27,7 +27,7 @@
                     "title": "Low Balance",
                     "state": "LOW_BALANCE"
                 },
-                "imageUrl": "https://github.com/bakhromusmanov/mobile-mock-assets/images/homes/default_home.png"
+                "imageUrl": "https://raw.githubusercontent.com/bakhromusmanov/mobile-mock-assets/main/images/homes/default_home.png"
             },
             {
                 "id": "home3",
@@ -37,7 +37,7 @@
                     "title": "No Debt",
                     "state": "OK"
                 },
-                "imageUrl": "https://github.com/bakhromusmanov/mobile-mock-assets/images/homes/default_home.png"
+                "imageUrl": "https://raw.githubusercontent.com/bakhromusmanov/mobile-mock-assets/main/images/homes/default_home.png"
             }
         ]
     }
