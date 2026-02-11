@@ -1,0 +1,41 @@
+{
+  "id": "home1",
+  "title": "Glinka 6-55, Mirabad District",
+  "subtitle": "Расход за месяц: 541 209 UZS",
+  "balanceInfo": {
+    "title": "No debt",
+    "state": "OK"
+  },
+  "payments": [
+    {
+      "homeId": "home1",
+      "paymentId": "p1",
+      "recipientId": "electricity",
+      "account": "12345678",
+      "balance": "125 000 UZS",
+      "name": "Electricity",
+      "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/tree/main/images/Electricity.png",
+      "amount": 125000
+    },
+    {
+      "homeId": "home1",
+      "paymentId": "p2",
+      "recipientId": "gas",
+      "account": "87654321",
+      "balance": "40 000 UZS",
+      "name": "Gas",
+      "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/tree/main/images/Gas.png",
+      "amount": 40000
+    },
+    {
+      "homeId": "home1",
+      "paymentId": "p3",
+      "recipientId": "Garbage",
+      "account": "347652341",
+      "balance": "60 000 UZS",
+      "name": "Gas",
+      "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/tree/main/images/Garbage.png",
+      "amount": 87000
+    }
+  ]
+}
