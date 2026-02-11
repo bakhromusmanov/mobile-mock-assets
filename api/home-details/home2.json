@@ -1,0 +1,41 @@
+{
+  "id": "home2",
+  "title": "Yunusabad 8-21",
+  "subtitle": "Расход за месяц: 487 300 UZS",
+  "balanceInfo": {
+    "title": "No debt",
+    "state": "OK"
+  },
+  "payments": [
+    {
+      "homeId": "home2",
+      "paymentId": "p1",
+      "recipientId": "electricity",
+      "account": "22334455",
+      "balance": "142 000 UZS",
+      "name": "Electricity",
+      "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/raw/main/images/Electricity.png",
+      "amount": 142000
+    },
+    {
+      "homeId": "home2",
+      "paymentId": "p2",
+      "recipientId": "gas",
+      "account": "66778899",
+      "balance": "55 300 UZS",
+      "name": "Gas",
+      "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/raw/main/images/Gas.png",
+      "amount": 55300
+    },
+    {
+      "homeId": "home2",
+      "paymentId": "p3",
+      "recipientId": "garbage",
+      "account": "99001122",
+      "balance": "290 000 UZS",
+      "name": "Garbage",
+      "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/raw/main/images/Garbage.png",
+      "amount": 290000
+    }
+  ]
+}
