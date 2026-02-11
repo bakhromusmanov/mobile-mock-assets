@@ -15,7 +15,7 @@
             "title": "No debt",
             "state": "OK"
         },
-        "imageUrl": "https://cdn.anorbank.uz/myhome-ms/anor-home/default_home.webp",
+        "imageUrl": "https://raw.githubusercontent.com/bakhromusmanov/mobile-mock-assets/main/images/homes/default_home.png",
         "payments": [
             {
                 "homeId": "home1",
