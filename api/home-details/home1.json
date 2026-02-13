@@ -27,7 +27,7 @@
                     "state": "OK"
                 },
                 "name": "Electricity",
-                "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/tree/main/images/Electricity.png",
+                "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/raw/main/images/Electricity.png",
                 "amount": 125000
             },
             {
@@ -40,7 +40,7 @@
                     "state": "LOW_BALANCE"
                 },
                 "name": "Gas",
-                "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/tree/main/images/Gas.png",
+                "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/raw/main/images/Gas.png",
                 "amount": 40000
             },
             {
@@ -53,7 +53,7 @@
                     "state": "HAS_DEBT"
                 },
                 "name": "Gas",
-                "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/tree/main/images/Garbage.png",
+                "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/raw/main/images/Garbage.png",
                 "amount": 87000
             }
         ]
