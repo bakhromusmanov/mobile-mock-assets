@@ -8,9 +8,9 @@
         "en": ""
     },
     "data": {
-        "id": "home1",
-        "title": "Glinka 6-55, Mirabad District",
-        "subtitle": "Расход за месяц: 541 209 UZS",
+        "id": "home2",
+        "title": "Yunusabad 8-21",
+        "subtitle": "Расход за месяц: 487 300 UZS",
         "balanceInfo": {
             "title": "No debt",
             "state": "OK"
@@ -18,43 +18,43 @@
         "imageUrl": "https://raw.githubusercontent.com/bakhromusmanov/mobile-mock-assets/main/images/homes/default_home.png",
         "payments": [
             {
-                "homeId": "home1",
+                "homeId": "home2",
                 "paymentId": "p1",
                 "recipientId": "electricity",
-                "account": "12345678",
+                "account": "22334455",
                 "balanceInfo": {
-                    "title": "125 000 UZS",
+                    "title": "142 000 UZS",
                     "state": "OK"
                 },
                 "name": "Electricity",
                 "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/raw/main/images/Electricity.png",
-                "amount": 125000
+                "amount": 142000
             },
             {
-                "homeId": "home1",
+                "homeId": "home2",
                 "paymentId": "p2",
                 "recipientId": "gas",
-                "account": "87654321",
+                "account": "66778899",
                 "balanceInfo": {
-                    "title": "5 000 UZS",
+                    "title": "5 300 UZS",
                     "state": "LOW_BALANCE"
                 },
                 "name": "Gas",
                 "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/raw/main/images/Gas.png",
-                "amount": 40000
+                "amount": 55300
             },
             {
-                "homeId": "home1",
+                "homeId": "home2",
                 "paymentId": "p3",
-                "recipientId": "Garbage",
-                "account": "347652341",
+                "recipientId": "garbage",
+                "account": "99001122",
                 "balanceInfo": {
-                    "title": "-60 000 UZS",
+                    "title": "-15 000 UZS",
                     "state": "HAS_DEBT"
                 },
-                "name": "Gas",
+                "name": "Garbage",
                 "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/raw/main/images/Garbage.png",
-                "amount": 87000
+                "amount": 290000
             }
         ]
     }
