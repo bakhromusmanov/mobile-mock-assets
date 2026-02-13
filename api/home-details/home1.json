@@ -8,9 +8,9 @@
         "en": ""
     },
     "data": {
-        "id": "home2",
-        "title": "Yunusabad 8-21",
-        "subtitle": "Расход за месяц: 487 300 UZS",
+        "id": "home1",
+        "title": "Glinka 6-55, Mirabad District",
+        "subtitle": "асход за месяц: 541 209 UZS",
         "balanceInfo": {
             "title": "No debt",
             "state": "OK"
@@ -18,43 +18,43 @@
         "imageUrl": "https://raw.githubusercontent.com/bakhromusmanov/mobile-mock-assets/main/images/homes/default_home.png",
         "payments": [
             {
-                "homeId": "home2",
+                "homeId": "home1",
                 "paymentId": "p1",
                 "recipientId": "electricity",
                 "account": "22334455",
                 "balanceInfo": {
-                    "title": "142 000 UZS",
+                    "title": "125 000 UZS",
                     "state": "OK"
                 },
                 "name": "Electricity",
                 "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/raw/main/images/Electricity.png",
-                "amount": 142000
+                "amount": 125000
             },
             {
-                "homeId": "home2",
+                "homeId": "home1",
                 "paymentId": "p2",
                 "recipientId": "gas",
                 "account": "66778899",
                 "balanceInfo": {
-                    "title": "5 300 UZS",
+                    "title": "5 000 UZS",
                     "state": "LOW_BALANCE"
                 },
                 "name": "Gas",
                 "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/raw/main/images/Gas.png",
-                "amount": 55300
+                "amount": 5000
             },
             {
-                "homeId": "home2",
+                "homeId": "home1",
                 "paymentId": "p3",
                 "recipientId": "garbage",
                 "account": "99001122",
                 "balanceInfo": {
-                    "title": "-15 000 UZS",
+                    "title": "-60 000 UZS",
                     "state": "HAS_DEBT"
                 },
                 "name": "Garbage",
                 "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/raw/main/images/Garbage.png",
-                "amount": 290000
+                "amount": 87000
             }
         ]
     }
