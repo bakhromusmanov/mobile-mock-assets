@@ -12,8 +12,8 @@
         "title": "Chilanzar 12-44",
         "subtitle": "Расход за месяц: 312 780 UZS",
         "balanceInfo": {
-            "title": "Pending payment",
-            "state": "WARNING"
+            "title": "Low balance",
+            "state": "LOW_BALANCE"
         },
         "imageUrl": "https://raw.githubusercontent.com/bakhromusmanov/mobile-mock-assets/main/images/homes/default_home.png",
         "payments": [
@@ -22,7 +22,10 @@
                 "paymentId": "p1",
                 "recipientId": "electricity",
                 "account": "99887766",
-                "balance": "98 500 UZS",
+                "balanceInfo": {
+                    "title": "98 500 UZS",
+                    "state": "OK"
+                },
                 "name": "Electricity",
                 "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/raw/main/images/Electricity.png",
                 "amount": 98500
@@ -32,7 +35,10 @@
                 "paymentId": "p2",
                 "recipientId": "gas",
                 "account": "55443322",
-                "balance": "24 280 UZS",
+                "balanceInfo": {
+                    "title": "2 480 UZS",
+                    "state": "LOW_BALANCE"
+                },
                 "name": "Gas",
                 "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/raw/main/images/Gas.png",
                 "amount": 24280
@@ -42,7 +48,10 @@
                 "paymentId": "p3",
                 "recipientId": "garbage",
                 "account": "11229988",
-                "balance": "190 000 UZS",
+                "balanceInfo": {
+                    "title": "-2 500 UZS",
+                    "state": "HAS_DEBT"
+                },
                 "name": "Garbage",
                 "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/raw/main/images/Garbage.png",
                 "amount": 190000
