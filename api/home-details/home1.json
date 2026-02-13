@@ -22,7 +22,10 @@
                 "paymentId": "p1",
                 "recipientId": "electricity",
                 "account": "12345678",
-                "balance": "125 000 UZS",
+                "balanceInfo": {
+                    "title": "125 000 UZS",
+                    "state": "OK"
+                },
                 "name": "Electricity",
                 "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/tree/main/images/Electricity.png",
                 "amount": 125000
@@ -32,7 +35,10 @@
                 "paymentId": "p2",
                 "recipientId": "gas",
                 "account": "87654321",
-                "balance": "40 000 UZS",
+                "balanceInfo": {
+                    "title": "5 000 UZS",
+                    "state": "LOW_BALANCE"
+                },
                 "name": "Gas",
                 "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/tree/main/images/Gas.png",
                 "amount": 40000
@@ -42,7 +48,10 @@
                 "paymentId": "p3",
                 "recipientId": "Garbage",
                 "account": "347652341",
-                "balance": "60 000 UZS",
+                "balanceInfo": {
+                    "title": "-60 000 UZS",
+                    "state": "HAS_DEBT"
+                },
                 "name": "Gas",
                 "fullLogo": "https://github.com/bakhromusmanov/mobile-mock-assets/tree/main/images/Garbage.png",
                 "amount": 87000
