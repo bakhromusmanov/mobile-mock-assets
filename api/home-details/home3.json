@@ -19,7 +19,7 @@
                 "recipientId": "electricity",
                 "account": "99887766",
                 "balanceInfo": {
-                    "title": "98 500 UZS",
+                    "amount": "98 500 UZS",
                     "state": "OK"
                 },
                 "name": "Electricity",
@@ -32,7 +32,7 @@
                 "recipientId": "gas",
                 "account": "55443322",
                 "balanceInfo": {
-                    "title": "2 480 UZS",
+                    "amount": "2 480 UZS",
                     "state": "LOW_BALANCE"
                 },
                 "name": "Gas",
@@ -45,7 +45,7 @@
                 "recipientId": "garbage",
                 "account": "11229988",
                 "balanceInfo": {
-                    "title": "-2 500 UZS",
+                    "amount": "-2 500 UZS",
                     "state": "HAS_DEBT"
                 },
                 "name": "Garbage",
